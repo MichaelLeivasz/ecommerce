@@ -7,7 +7,7 @@ Este aplicativo é uma cópia do ecommerce da Reserva.
 * **Variedade de produtos:** a Reservafake oferece um amplo catálogo de produtos, incluindo roupas, calçados e acessórios masculinos e femininos de diversas marcas.
 * **Navegação intuitiva:** o site é projetado para facilitar a busca por produtos, com categorias bem definidas, filtros de pesquisa e organização por coleções e lançamentos.
 * **Informações detalhadas dos produtos:** Cada produto possui descrição completa, fotos de alta qualidade, tabela de medidas e informações sobre composição e cuidados.
-* *Segurança na compra:** A plataforma oferece um ambiente seguro para pagamentos online, com certificações de segurança e criptografia de dados.
+* **Segurança na compra:** A plataforma oferece um ambiente seguro para pagamentos online, com certificações de segurança e criptografia de dados.
 
 
 ## Funcionalidades administrativas:
